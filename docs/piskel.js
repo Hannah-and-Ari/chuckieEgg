@@ -2,7 +2,7 @@ function piskel(){
 	this.x = 100;
 	this.y = 1;
 	this.width = 20;
-	this.height = 10
+	this.height = 20
 	this.speedx = 0;
 	this.speedy = 0;
 	
